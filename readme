@@ -3,4 +3,5 @@ C++ Implementation of some of the famous algorithm design problems:
 	- String Vowel Invertor : string.cpp
 	- Word Matching from Dictionary for Incoming Stream of characters : streamStringFinder.cpp
 	- Knapsack 0-1: knapsack.cpp
-	
+	- MaxHeap: heap.cpp
+		https://www.careercup.com/question?id=5658326589243392	
