@@ -9,6 +9,7 @@ C++ Implementation of some of the famous algorithm design problems:
 
 C++ Solution of most of the questions in the "Cracking the Coding Interview":
 	- The book information can be found at: https://www.careercup.com/book
+	- The source files for the solutions are in 'cracking-the-coding-interview' directory
 	- The solution to question x from chapter y is in file q[y]-x.cpp file
 	- The solutions are not totally bug free and may need some tweaking to be compiled/run.
 
