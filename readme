@@ -5,3 +5,9 @@ C++ Implementation of some of the famous algorithm design problems:
 	- Knapsack 0-1: knapsack.cpp
 	- MaxHeap: heap.cpp
 		https://www.careercup.com/question?id=5658326589243392	
+
+C++ Solution of most of the questions in the "Cracking the Coding Interview":
+	- The solution to question x from chapter y is in file q[y]-x.cpp file
+	- The solutions are not totally bug free and may need some tweaking to be compiled/run.
+
+Please, feel free to create an issue if you see any problem in the codes.
